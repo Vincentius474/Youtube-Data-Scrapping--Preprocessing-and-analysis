@@ -2,6 +2,11 @@
 
 A Python data-analysis project that collects publicly displayed video metadata from selected YouTube channels and explores channel performance through visualizations. The notebooks cover the collection workflow and the analysis of exported CSV files, with a focus on video view counts and upload recency.
 
+<img width="1699" height="336" alt="image" src="https://github.com/user-attachments/assets/422ba9ab-c6c0-42ca-bf21-152fe0a30d2c" />
+<img width="864" height="290" alt="Screenshot 2026-10-15 212539" src="https://github.com/user-attachments/assets/55b3112b-2844-403c-9f77-9006d45a6e39" />
+<img width="1693" height="321" alt="Screenshot 2026-10-15 212605" src="https://github.com/user-attachments/assets/f6381980-d11c-4dff-b787-88b74080c970" />
+
+
 ## Project goals
 
 - Collect video titles, view counts, and upload-time labels from selected YouTube channel video pages.
